@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Vedanho" target="_blank">Amirhan</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/Vedanho/Vedanho" target="_blank">Amirkhan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-
+<h3>Мой стек:</h3>
+[![codewars](https://www.codewars.com/users/Vedanho/badges/large)](https://www.codewars.com/users/username)   
 
 <!--
 **Vedanho/Vedanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
